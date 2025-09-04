@@ -1,4 +1,4 @@
-package day8.basic;
+package day8.oops;
 
 public class NonStaticStaticTest {
     public static void main(String[] args) {

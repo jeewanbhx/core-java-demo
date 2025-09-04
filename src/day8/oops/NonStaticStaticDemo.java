@@ -1,4 +1,4 @@
-package day8.basic;
+package day8.oops;
 
 public class NonStaticStaticDemo {
     //non-static (instance) variable

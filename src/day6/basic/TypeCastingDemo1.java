@@ -1,6 +1,6 @@
 package day6.basic;
 
-public class TypCastingDemo1 {
+public class TypeCastingDemo1 {
 
     public static void main(String[] args) {
 
